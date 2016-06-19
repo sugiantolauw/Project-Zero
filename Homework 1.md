@@ -14,8 +14,10 @@ A self-made guy who made his way through college by being part of US Coast Guard
 He is of the believe that Data Science will become less technical in the future, so much that we don’t even need to analyse the data, the insights are there just waiting for us. But he doesn’t think that it will be completely automated as good data science is more about the questions we pose the data rather than data mungling and analysis. 
 
 Project Idea:
-1. Using Google AdWords, open rates, sentiment and Online sales of Harvey Norman to optimize which campaign should be used and what factor makes a good campaign.
-Possibly using email clustering to find out which email campaign works best?
+1. Using Google AdWords, open rates, sentiment and Online sales data of Harvey Norman to know which category of customers are most profitable.
+So, finding correlation between first action done by users and higher retention.
+Possibly using email clustering to find out which email campaign works best? and find out which adwords campaign lead to useless signup and which that leads to sales?
+What are the possible factors that would lead to useless signup?
 
 2. Predicting which soccer player to sign based on their on-field performances (goals, assists, key passes, tackles, interception, injury records, etc) and at realistic price and salary.
 There are plenty of data regarding player's performance at Transfrmarket website and also its salaries and their price.
