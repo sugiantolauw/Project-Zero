@@ -14,7 +14,14 @@ A self-made guy who made his way through college by being part of US Coast Guard
 He is of the believe that Data Science will become less technical in the future, so much that we don’t even need to analyse the data, the insights are there just waiting for us. But he doesn’t think that it will be completely automated as good data science is more about the questions we pose the data rather than data mungling and analysis. 
 
 Project Idea:
-1. Using Google AdWords, open rates, sentiment and Online sales data of Harvey Norman to know which category of customers are most profitable.
+1. Goals: Use Adwords and online sales data to reach more profitable customers, segment profitable customer, factors of good campaign.
+Approach: 
+a) Evaluate user's search behaviour and historical revenue data to better assign value to every click
+b) Which campaigns are useless and which aren't?
+c) What are the factors of good adwords campaign?
+d) What are the profitable customers?
+e) How customers are searching for product?
+
 So, finding correlation between first action done by users and higher retention.
 Possibly using email clustering to find out which email campaign works best? and find out which adwords campaign lead to useless signup and which that leads to sales?
 What are the possible factors that would lead to useless signup?
